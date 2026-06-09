@@ -1,0 +1,5 @@
+GIT
+
+git checkout -b main   //crate rama 
+git brnach main		//cambiar de rama
+git switch -c main     //create: c
