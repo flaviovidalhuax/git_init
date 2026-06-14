@@ -1,5 +1,20 @@
 GIT
-
 git checkout -b main   //crate rama 
+git checkout dev 	//cambio de rama 
+
 git brnach main		//cambiar de rama
+git brnach 		//lista ramas
+
 git switch -c main     //create: c
+git switch dev		//cambio de rama
+
+git add .		//add all
+git add name.txt
+
+git restore --staged name.txt
+git restore --source=HEAD-1 name.txt
+
+flavio vim:
+1 primera practica
+
+
