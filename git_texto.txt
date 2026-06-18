@@ -14,6 +14,8 @@ git add name.txt
 git restore --staged name.txt
 git restore --source=HEAD-1 name.txt
 
+git push --set-upstream origin dev2
+
 flavio vim:
 1 primera practica
 
